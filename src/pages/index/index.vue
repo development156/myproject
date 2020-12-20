@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
+		
 		<view>
 			<text class="title">{{title}}</text>
 		</view>
@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: '明天会更好哈哈哈哈哈'
 			}
 		},
 		onLoad() {
